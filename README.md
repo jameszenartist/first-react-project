@@ -8,7 +8,7 @@ I decided it was about time to strengthen my programming skills by diving deep i
 
 The source of the code can also be found on my portfolio website:
 
-### syntaxsamurai.com
+[syntaxsamurai.com](https://syntaxsamurai.com/)
 
 while currently the app is in a basic functioning state, I can assure you that updates such as UI/UX design, JS functionality, will be implemented in iterations as soon as I can! I also fully intend on using this as an opportunity to learn about and incorporate the use of new tools and features.
 
