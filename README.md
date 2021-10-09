@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# React Todo List Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Github License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-## Available Scripts
+### Welcome to my first project created with React!
 
-In the project directory, you can run:
+I decided it was about time to strengthen my programming skills by diving deep into the Javascript library React, and what better way than to build my first Todo list! I also thought I'd use this project as an opportunity to sharpen my Javascript, code structure, and design skills.
 
-### `yarn start`
+The source of the code can also be found on my portfolio website:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### syntaxsamurai.com
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+while currently the app is in a basic functioning state, I can assure you that updates such as UI/UX design, JS functionality, will be implemented in iterations as soon as I can! I also fully intend on using this as an opportunity to learn about and incorporate the use of new tools and features.
 
-### `yarn test`
+## Table of contents:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Built With](#built-with)
+- [Issues](#issues)
+- [Pull Request](#Pull-Request)
+- [License](#license)
+- [Get Help](#get-help)
+- [Motivation](#motivation)
 
-### `yarn build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Currently with just HTML and Javascript for the time being, but in the near future intentions are to implement CSS, Netlify on the front end, and possibly some various Javascript libraries.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Issues
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In the case of a bug report, bugfix or a suggestions, please feel very free to open an issue.
 
-### `yarn eject`
+## Pull request
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Pull requests are always welcome, and I'll do my best to do reviews as fast as I can.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Get Help
+
+- Contact me on jameszenartist@gmail.com
+- If appropriate, [open an issue](https://github.com/jameszenartist/first-react-project/issues) on GitHub
+
+## Motivation
+
+My motivation was to deepen my understanding of the Javascript library React, so as to increase the potential for job opportunities and build upon my current programming skills.
 
 ## Learn More
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
